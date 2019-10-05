@@ -2,7 +2,7 @@
 This is an e-commerce website for the person who wants to give nice clothes for your family members having paws🐶🐱
 
 <br>
-### Choose nice clothes for your sweet family!<br>
+## Choose nice clothes for your sweet family!<br>
 https://pawpaw-clothing.herokuapp.com/
 
 <br>
