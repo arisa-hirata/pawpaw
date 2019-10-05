@@ -9,7 +9,9 @@ https://pawpaw-clothing.herokuapp.com/
 
 <img width="500" alt="Screen Shot 2019-10-05 at 11 26 07 AM" src="https://user-images.githubusercontent.com/32582917/66259220-38121b00-e763-11e9-8e03-cebbe941dd59.png">
 
+<br>
 
+<img width="500" alt="Screen Shot 2019-10-05 at 11 27 01 AM" src="https://user-images.githubusercontent.com/32582917/66259255-a656dd80-e763-11e9-8c1f-8f4c30e81452.png">
 
 
 
