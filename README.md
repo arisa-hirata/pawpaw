@@ -1,5 +1,5 @@
 # What is PawPaw?
-This is an e-commerce website for the person who wants to give nice clothes for your family members having paws🐶🐱
+This is a fictional e-commerce website for the person who wants to give nice clothes for your family members having paws🐶🐱
 
 <br>
 ### Choose nice clothes for your sweet family!<br>
