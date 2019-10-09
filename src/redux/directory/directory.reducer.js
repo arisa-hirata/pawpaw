@@ -19,7 +19,7 @@ const INITIAL_STATE = {
       imageUrl:
         'https://images-na.ssl-images-amazon.com/images/I/41c-pijK6ML._SX425_.jpg',
       id: 3,
-      linkUrl: 'shop/sneakers'
+      linkUrl: 'shop/shoes'
     },
     {
       title: 'dogs',
@@ -27,7 +27,7 @@ const INITIAL_STATE = {
         'https://cdn.pixabay.com/photo/2018/12/19/07/14/animal-3883568_1280.jpg',
       size: 'large',
       id: 4,
-      linkUrl: 'shop/womens'
+      linkUrl: 'shop/dogs'
     },
     {
       title: 'cats',
@@ -35,7 +35,7 @@ const INITIAL_STATE = {
         'https://www.poponeko.jp/feature/wp-content/uploads/2019/04/1-99-1.jpg',
       size: 'large',
       id: 5,
-      linkUrl: 'shop/mens'
+      linkUrl: 'shop/cats'
     }
   ]
 };
